@@ -1,0 +1,5 @@
+const STRIPE = {
+}
+
+const FIREBASE = {
+}
